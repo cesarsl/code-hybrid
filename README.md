@@ -4,45 +4,7 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
 
 ## Palette
 
-<style>
-    .palette {
-        background-color: #141414;
-        color: #F1F1F1;
-    }
-    .palette td:first-child {
-        text-align: right;
-    }
-    .example {
-        font-size: 42px;
-        font-weight: bold;
-    }
-    .contrast {
-        font-size: 21px;
-    }
-    .red {
-        color: #E87F7E;
-    }
-    .green {
-        color: #B5BD68;
-    }
-    .orange {
-        color: #DE935F;
-    }
-    .cyan {
-        color: #81A2BE;
-    }
-    .purple {
-        color: #B294BB;
-    }
-    .teal {
-        color: #8ABEB7;
-    }
-    .white {
-        color: #F1F1F1;
-    }
-</style>
-
-<table class="palette">
+<table style="background-color: #141414;color: #F1F1F1;">
     <th>
         <td>#E87F7E</td>
         <td>#B5BD68</td>
@@ -53,24 +15,24 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
         <td>#F1F1F1</td>
     </th>
     <tr>
-        <td>Background #141414</td>
-        <td class="example red">Aa</td>
-        <td class="example green">Aa</td>
-        <td class="example orange">Aa</td>
-        <td class="example cyan">Aa</td>
-        <td class="example purple">Aa</td>
-        <td class="example teal">Aa</td>
-        <td class="example white">Aa</td>
+        <td style="text-align: right;">Background #141414</td>
+        <td style="font-size: 42px;font-weight: bold;color: #E87F7E">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #B5BD68">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #DE935F">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #81A2BE">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #B294BB">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #8ABEB7">Aa</td>
+        <td style="font-size: 42px;font-weight: bold;color: #F1F1F1">Aa</td>
     </tr>
     <tr>
-        <td>Contrast ratio*</td>
-        <td class="contrast red">6.81</td>
-        <td class="contrast green">9.16</td>
-        <td class="contrast orange">7.41</td>
-        <td class="contrast cyan">6.88</td>
-        <td class="contrast purple">6.88</td>
-        <td class="contrast teal">8.89</td>
-        <td class="contrast white">16.31</td>
+        <td style="text-align: right;">Contrast ratio*</td>
+        <td style="font-size: 21px;font-weight: bold">6.81</td>
+        <td style="font-size: 21px;font-weight: bold">9.16</td>
+        <td style="font-size: 21px;font-weight: bold">7.41</td>
+        <td style="font-size: 21px;font-weight: bold">6.88</td>
+        <td style="font-size: 21px;font-weight: bold">6.88</td>
+        <td style="font-size: 21px;font-weight: bold">8.89</td>
+        <td style="font-size: 21px;font-weight: bold">16.31</td>
     </tr>
 </table>
 
@@ -78,4 +40,4 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
 
 ## Support
 
-Through issues at ...
+Through issues at [github.com/cesarsl/code-hybrid/issues](https://github.com/cesarsl/code-hybrid/issues/new)
