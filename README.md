@@ -37,8 +37,9 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
         <td style="font-size: 21px;font-weight: bold">16.31</td>
     </tr>
 </table>
+-->
 
-<small>\* Constrast ratio of 7+ is a level AAA in WCAG 2.2</small> -->
+<small>\* Constrast ratio of 7+ is a level AAA in WCAG 2.2</small>
 
 ## Support
 
