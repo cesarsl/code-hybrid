@@ -1,0 +1,22 @@
+{
+  "name": "code-hybrid-theme",
+  "displayName": "code-hybrid-theme",
+  "description": "Code Hybrid theme is a dark color scheme with reduced brightness based on w0ng's vim-hybrid theme.",
+  "publisher": "cesarsl",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code Hybrid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-hybrid-color-theme.json"
+      }
+    ]
+  }
+}
