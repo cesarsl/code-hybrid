@@ -4,7 +4,9 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
 
 ## Palette
 
-<table style="background-color: #141414;color: #F1F1F1;">
+![Palette](https://raw.githubusercontent.com/cesarsl/code-hybrid/main/img/palette.png)
+
+<!-- <table style="background-color: #141414;color: #F1F1F1;">
     <th>
         <td>#E87F7E</td>
         <td>#B5BD68</td>
@@ -36,7 +38,7 @@ Code Hybrid theme is a dark color scheme with reduced brightness based on [w0ng'
     </tr>
 </table>
 
-<small>\* Constrast ratio of 7+ is a level AAA in WCAG 2.2</small>
+<small>\* Constrast ratio of 7+ is a level AAA in WCAG 2.2</small> -->
 
 ## Support
 
