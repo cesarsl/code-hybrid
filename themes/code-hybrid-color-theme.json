@@ -95,13 +95,9 @@
     },
     {
       "name": "Tag",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag.sgml",
-        "markup.deleted.git_gutter"
-      ],
+      "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#E87F7E"
+        "foreground": "#DE935F"
       }
     },
     {
@@ -277,7 +273,7 @@
     },
     {
       "name": "Deleted",
-      "scope": ["markup.deleted"],
+      "scope": ["markup.deleted", "markup.deleted.git_gutter"],
       "settings": {
         "foreground": "#E87F7E"
       }
