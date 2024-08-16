@@ -100,7 +100,7 @@ table += `</tr>
 </table>
 </body>`;
 
-let ss = html2png({ width: 740, height: 280, browser: "chrome" });
+let ss = html2png({ width: 680, height: 280, browser: "chrome" });
 
 ss.render(table, function (err, data) {
   if (err) {
