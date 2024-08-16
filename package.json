@@ -4,7 +4,7 @@
   "description": "Code Hybrid theme is a dark color scheme with reduced brightness based on w0ng's vim-hybrid theme.",
   "icon": "img/icon.png",
   "publisher": "cesarsl",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/cesarsl/code-hybrid"

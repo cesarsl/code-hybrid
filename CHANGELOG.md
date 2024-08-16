@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.6] - 2024-08-16
+
+### Added
+
+- Missing release versions in changelog
+
+## [1.0.5] - 2024-08-16
+
+### Fixed
+
+- Changelog missing releases
+
 ## [1.0.4] - 2024-08-16
 
 ### Changed
@@ -14,7 +26,7 @@
 
 ## [1.0.2] - 2024-08-12
 
-## Added
+### Added
 
 - Contrast ratio sentence in small HTML tag
 
