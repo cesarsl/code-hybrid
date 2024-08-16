@@ -9,9 +9,9 @@ const palette = {
     orange: "#DE935F",
     yellow: "#F0C674",
     green: "#B5BD68",
+    cyan: "#8ABEB7",
     blue: "#81A2BE",
     purple: "#B294BB",
-    cyan: "#8ABEB7",
   },
 };
 
