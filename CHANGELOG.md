@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] - 2024-08-15
+
+### Changed
+
+- Better palette presentation for README
+
 ## [1.0.6] - 2024-08-16
 
 ### Added
