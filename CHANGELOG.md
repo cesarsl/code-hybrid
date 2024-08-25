@@ -2,7 +2,7 @@
 
 ## [1.1.0] - 2024-08-25
 
-## Changed
+### Changed
 
 - Lowered white contrast ratio
 - Raised red, cyan, blue and purple contrast ratios
