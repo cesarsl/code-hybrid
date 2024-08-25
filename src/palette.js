@@ -4,14 +4,14 @@ import html2png from "html2png";
 const palette = {
   background: "#141414",
   colors: {
-    white: "#f1f1f1",
-    red: "#E87F7E",
+    white: "#E1E1E1",
+    red: "#EC8281",
     orange: "#DE935F",
     yellow: "#F0C674",
     green: "#B5BD68",
-    cyan: "#8ABEB7",
-    blue: "#81A2BE",
-    purple: "#B294BB",
+    cyan: "#7BAEA7",
+    blue: "#84A5C1",
+    purple: "#B597BE",
   },
 };
 
